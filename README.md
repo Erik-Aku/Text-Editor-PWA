@@ -2,15 +2,15 @@
 
 ## Description
 
-A text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
+A text editor that runs in the browser used to create notes and code snippets with or without an internet connection. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application functions offline.
 
 This app implements methods for getting and storing data to an IndexedDB database. 
 
-This app is deployed to Render
+This app is deployed to Render: https://text-editor-pwa-hgt1.onrender.com/
 
 ## Installation
 
-- The required modules are bundled in the package.json file. From the terminal, run  `npm run install` abd the modules will be installed.
+- The required modules are bundled in the package.json file. From the terminal, run  `npm run install` and the modules will be installed.
 - Run `npm run start` to start the application
 
 ## Usage
