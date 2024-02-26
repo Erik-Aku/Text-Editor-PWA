@@ -29,6 +29,10 @@ _Below is the screenshot of content in the text editor that has been retrieved f
 
 ![Screenshot 2024-02-25 at 6 02 19 PM](https://github.com/Erik-Aku/Text-Editor-PWA/assets/92487526/f973c4f4-60cb-4e24-9f26-017bed19bd47)
 
+_Below is a screenshot that shows the application's IndexedDB storage:_
+
+![Screenshot 2024-02-25 at 6 35 14 PM](https://github.com/Erik-Aku/Text-Editor-PWA/assets/92487526/807b9b88-6206-4a08-a185-596c5ad3bde2)
+
 
 _Below is a screenshot of the offline application_
 
